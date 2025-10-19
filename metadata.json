@@ -1,0 +1,5 @@
+{
+  "name": "AI Background Preserver",
+  "description": "An AI-powered image editing tool that removes people and text from images, meticulously reconstructing the background. Users can upload an image for automatic cleaning and then provide text prompts for further refinements.",
+  "requestFramePermissions": []
+}
